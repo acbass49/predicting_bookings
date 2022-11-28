@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1669610211561,"sparkVersion":"3.1.2","uid":"Imputer_c33a7f303863","paramMap":{"inputCol":"total_time_elapsed","strategy":"median","outputCol":"total_time_elapsed_imputed"},"defaultParamMap":{"relativeError":0.001,"strategy":"mean","outputCol":"Imputer_c33a7f303863__output","missingValue":"NaN"}}
